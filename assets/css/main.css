@@ -143,6 +143,7 @@ input, select, textarea {
 		font-weight: 400;
 		font-family: 'Bebas Neue', cursive;
 		line-height: 1em;
+		width: 348px;
 		margin: 0 0 1em 0;		
 	}
 
@@ -1822,6 +1823,7 @@ input, select, textarea {
 
 .modal-content {
 	padding: 10px;
+	width: 100%;
 	max-width: 600px;
 	min-width: 360px;
 	max-height: 85%;
